@@ -15,12 +15,13 @@ C++, C, Javascript, Typescript, Java, Rust, CUDA
   - Loopback v4 backend with NodeJs, Typescript, MongoDB
   - Tauri with NodeJs, Typescript, Rust
 
-#### 🛑 Languages I'm not intrested in: 
-Python... Why would anyone use a slow and bad alternative? 🤔
-
 #### ✉️ You can contact me at kuketto.q2@gmail.com
 
 ### Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KuKetto&theme=tokyonight&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KuKetto&layout=compact)](https://github.com/KuKetto/github-readme-stats)
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
