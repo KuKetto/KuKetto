@@ -27,7 +27,7 @@ C++, C, Javascript, Typescript, Java, Rust, CUDA
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Rust   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
