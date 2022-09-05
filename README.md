@@ -27,11 +27,9 @@ C++, C, Javascript, Typescript, Java, Rust, CUDA
 <!--START_SECTION:waka-->
 
 ```text
-Rust         2 hrs 31 mins   ████████████████▒░░░░░░░░   65.39 %
-TypeScript   1 hr 14 mins    ████████░░░░░░░░░░░░░░░░░   32.14 %
-TOML         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Rust   3 hrs 53 mins   ███████████████████████▒░   92.96 %
+JSON   10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
+TOML   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
 ```
 
 <!--END_SECTION:waka-->
