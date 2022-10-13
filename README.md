@@ -27,8 +27,9 @@ C++, C, Javascript, Typescript, Java, Rust, CUDA
 <!--START_SECTION:waka-->
 
 ```text
-C++    19 mins         █████████████████░░░░░░░░   67.66 %
-YAML   9 mins          ████████░░░░░░░░░░░░░░░░░   32.34 %
+C++      19 mins         ██████████▒░░░░░░░░░░░░░░   40.95 %
+Python   18 mins         ██████████░░░░░░░░░░░░░░░   39.47 %
+YAML     9 mins          █████░░░░░░░░░░░░░░░░░░░░   19.58 %
 ```
 
 <!--END_SECTION:waka-->
