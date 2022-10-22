@@ -27,12 +27,12 @@ C++, C, Javascript, Typescript, Java, Rust, CUDA
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   3 hrs 47 mins   ██████████████████▒░░░░░░   72.69 %
-YAML         52 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.63 %
-Git Config   17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
-JSON         13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
-Docker       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+TypeScript   2 hrs 17 mins   ██████████████▓░░░░░░░░░░   58.32 %
+YAML         51 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.84 %
+Python       21 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.09 %
+Git Config   17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
+JSON         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
+Docker       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
 ```
 
 <!--END_SECTION:waka-->
