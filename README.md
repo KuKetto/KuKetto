@@ -5,13 +5,14 @@
 You can hit me up on Discord (Döme#3667) and may we could do something awesome together ✨ 
 
 #### 🎓 University progress: 
-Graduate [University of Pannonia](https://mik.uni-pannon.hu/en/ "University of Pannonia") 
+Graduate of [University of Pannonia](https://mik.uni-pannon.hu/en/ "University of Pannonia") 
 
 #### 📖 Languages learnt so far: 
 C++, C, Python, Javascript, Typescript, Java, Rust, CUDA 
 
 #### 💻 Frameworks used: 
   - Qt C++
+  - Catch2 C++ Unit testing framework
   - Loopback v4 backend with NodeJs, Typescript, MongoDB
   - Tauri with NodeJs, Typescript, Rust
 
