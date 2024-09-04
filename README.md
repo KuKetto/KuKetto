@@ -1,20 +1,19 @@
 # About
 
-👋 Hey! I'm Domonkos Say and i was always into coding. I'm in love [C++](https://github.com/KuKetto/GreenHouseProject "C++") but i also love working with [Tauri](https://github.com/KuKetto/BNBVisualizer "Tauri"). 
+👋 Hey! I'm Domonkos Say and i was always into coding. Used to work in [C++](https://github.com/KuKetto/FABTemplateGenerator "C++") currently using [erlang](https://www.erlang.org/ "erlang") in my daily job. Graduate of [University of Pannonia](https://mik.uni-pannon.hu/en/ "University of Pannonia").
 
-You can hit me up on Discord (Döme#3667) and may we could do something awesome together ✨ 
-
-#### 🎓 University progress: 
-Graduate of [University of Pannonia](https://mik.uni-pannon.hu/en/ "University of Pannonia") 
+#### Contributions:
+  - [Talishar](https://github.com/Talishar/Talishar/graphs/contributors) 
 
 #### 📖 Languages learnt so far: 
-C++, C, Python, Javascript, Typescript, Java, Rust, CUDA 
+C++, C, Python, Javascript, Typescript, Java, Rust, CUDA, PHP, Erlang
 
 #### 💻 Frameworks used: 
   - Qt C++
   - Catch2 C++ Unit testing framework
   - Loopback v4 backend with NodeJs, Typescript, MongoDB
   - Tauri with NodeJs, Typescript, Rust
+  - Erlang OTP
 
 #### ✉️ You can contact me at kuketto.q2@gmail.com
 
